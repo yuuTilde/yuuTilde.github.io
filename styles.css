@@ -1,0 +1,26 @@
+* {
+	background-color:#121212;
+	font-family:Comfortaa;
+	margin:auto;
+	max-width:30rem;
+	text-align:center;
+}
+.logo {
+	max-width:75%;
+	max-height:75%;
+	margin:-5%;
+	margin-bottom:-10%;
+}
+.about {
+	color:#BB86FC;
+	font-size:larger;
+	line-height:1.5;
+	margin-bottom:5%;
+}
+.link {
+	color:#03DAC6;
+	text-decoration:none;
+	background-color:#000000;
+	border:3px solid #000000;
+	border-radius:10px;
+}
