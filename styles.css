@@ -18,9 +18,8 @@
 	margin-bottom:5%;
 }
 .link {
-	color:#03DAC6;
-	text-decoration:none;
-	background-color:#000000;
-	border:3px solid #000000;
-	border-radius:5px;
+	background-color:#ffffff;
+	filter: invert();
+	border-radius: 100%;
+	transform: scale(1.2);
 }
