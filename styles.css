@@ -1,25 +1,32 @@
 * {
 	background-color:#121212;
+	color:#BB86FC;
 	font-family:Comfortaa;
+	line-height:1.2;
 	margin:auto;
-	max-width:30rem;
 	text-align:center;
 }
 .logo {
-	max-width:75%;
-	max-height:75%;
-	margin:-5%;
-	margin-bottom:-10%;
+	font-size:large;
+	margin-top:-2rem;
+	max-width:20rem;
 }
-.about {
-	color:#BB86FC;
-	font-size:larger;
-	line-height:1.5;
-	margin-bottom:5%;
+.blocks {
+	display:flex;
+	margin-top:2rem;
+	max-width:fit-content;
+}
+.block {
+	border:0.15rem solid;
+	height:15rem;
+	padding:0.5rem;
+	width:7rem;
 }
 .link {
 	background-color:#ffffff;
-	filter: invert();
-	border-radius: 100%;
-	transform: scale(1.2);
+	border-radius:100%;
+	display: block;
+	filter:blur(0.5px)contrast(200%)grayscale()invert();
+	height:2.5rem;
+	margin-bottom: 0.5rem;
 }
