@@ -26,8 +26,8 @@
 .link {
 	background-color:#ffffff;
 	border-radius:100%;
-	display: block;
+	display:block;
 	filter:blur(0.5px)contrast(200%)grayscale()invert();
 	height:2.5rem;
-	margin-bottom: 0.5rem;
+	margin-bottom:0.5rem;
 }
