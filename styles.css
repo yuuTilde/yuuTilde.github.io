@@ -13,21 +13,20 @@
 }
 .blocks {
 	display:flex;
-	margin-top:2rem;
+	margin-top:1.5rem;
 	max-width:fit-content;
 }
 .block {
 	border:0.15rem solid;
 	font-size:larger;
-	height:15rem;
-	padding:0.5rem;
+	height:11rem;
+	padding:0.25rem;
 	width:7rem;
 }
 .link {
 	background-color:#ffffff;
 	border-radius:100%;
-	display:block;
 	filter:blur(0.5px)contrast(200%)grayscale()invert();
-	height:2.5rem;
+	height:2.3rem;
 	margin-bottom:0.5rem;
 }
