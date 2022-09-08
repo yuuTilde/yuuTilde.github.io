@@ -9,17 +9,17 @@
 .logo {
 	font-size:larger;
 	margin-top:-2rem;
-	width:20rem;
+	max-width:20rem;
 }
 .blocks {
 	display:flex;
 	margin-top:1rem;
-	width:fit-content;
+	max-width:fit-content;
 }
 .block {
 	border:0.15rem solid;
 	font-size:larger;
-	height:10.5rem;
+	height:10rem;
 	padding:0.25rem;
 	width:7rem;
 }
